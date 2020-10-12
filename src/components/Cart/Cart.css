@@ -1,0 +1,15 @@
+.cart {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 25vw;
+  padding-top: 90px;
+  background: lightgray;
+
+  transition: 300ms;
+}
+
+.cart__close {
+  transform: translateX(100%);
+}

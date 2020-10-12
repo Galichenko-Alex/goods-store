@@ -1,0 +1,7 @@
+.cart-item {
+  padding: 0 20px;
+}
+
+.cart-item * {
+  margin: 2px;
+}
